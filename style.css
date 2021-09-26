@@ -1,0 +1,15 @@
+.box-1{
+    height: 100px;
+    width: 100px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
